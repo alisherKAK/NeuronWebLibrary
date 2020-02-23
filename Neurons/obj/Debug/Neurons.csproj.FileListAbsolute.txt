@@ -1,0 +1,6 @@
+S:\VisualStudio\Test\Neurons\Neurons\bin\Debug\Neurons.exe.config
+S:\VisualStudio\Test\Neurons\Neurons\bin\Debug\Neurons.exe
+S:\VisualStudio\Test\Neurons\Neurons\bin\Debug\Neurons.pdb
+S:\VisualStudio\Test\Neurons\Neurons\obj\Debug\Neurons.csprojAssemblyReference.cache
+S:\VisualStudio\Test\Neurons\Neurons\obj\Debug\Neurons.exe
+S:\VisualStudio\Test\Neurons\Neurons\obj\Debug\Neurons.pdb
